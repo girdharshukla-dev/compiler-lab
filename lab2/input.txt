@@ -1,0 +1,8 @@
+int x = 10;
+float value = 3.14;
+
+if (x > 5) {
+    return value + x;
+} else {
+    x = x - 1;
+}
