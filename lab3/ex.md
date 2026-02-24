@@ -9,3 +9,11 @@ T=i
 A=Aa
 A=Ab
 A=c
+
+6
+E=E+T
+E=T
+T=TxF
+T=F
+F=(E)
+F=i
